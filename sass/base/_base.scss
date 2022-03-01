@@ -1,0 +1,16 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  /* // translate 16px font to % - so user can change deafoult font size in browser and site will adapt // */
+  font-size: 62.5%;
+}
+
+body {
+  box-sizing: border-box;
+}
