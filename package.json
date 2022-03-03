@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ArkadiuszBalakier/Natours#readme",
   "devDependencies": {
+    "live-server": "^1.2.1",
     "node-sass": "^7.0.1"
   }
 }
