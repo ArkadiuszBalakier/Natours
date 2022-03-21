@@ -2,10 +2,6 @@
   text-align: center;
 }
 
-.u-margin-top-50 {
-  margin-top: 5rem;
-}
-
 .u-margin-bottom-8 {
   margin-bottom: 8rem;
 }
@@ -14,10 +10,18 @@
   margin-bottom: 1.5rem;
 }
 
+.u-margin-bottom-medium {
+  margin-bottom: 4rem !important;
+}
+
 .u-margin-top-big {
   margin-top: 8rem;
 }
 
 .u-padding-top {
   padding-top: 10rem;
+}
+
+.u-margin-top-50 {
+  margin-top: 5rem;
 }
