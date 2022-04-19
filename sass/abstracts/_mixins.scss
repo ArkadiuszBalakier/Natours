@@ -35,16 +35,16 @@ $Break point argument choices:
     }
   }
 
-  @if $breakpoint == tab-port {
-    @media (max-width: 56.25em) {
-      //900px
+  @if $breakpoint == tab-land {
+    @media (max-width: 75em) {
+      //1200px
       @content;
     }
   }
 
-  @if $breakpoint == tab-land {
-    @media (max-width: 75em) {
-      //1200px
+  @if $breakpoint == tab-port {
+    @media (max-width: 56.25em) {
+      //900px
       @content;
     }
   }
